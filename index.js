@@ -12,7 +12,7 @@ fetch("https://v2.jokeapi.dev/joke/Any")
     main.innerHTML = jtml;
     }
     else{
-        let jtml = `<p>hahahah</p><p>what so funny</p>`;
+        let jtml = `<p>i ain't gonna generate it directly</p><p>click on that generate button and laugh</p>`;
     main.innerHTML = jtml;
     }
     let show = document.querySelector("#sbtn");
